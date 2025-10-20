@@ -1,4 +1,16 @@
-<img width="406" height="531" alt="image" src="https://github.com/user-attachments/assets/17d405b4-0826-4bd7-8c55-dfc7a72bdd49" />
+## Ator: usuário
+## Fluxo Princípal:
+1. Login/criar conta
+2. Verificar status de ambiente
+3. Pesquisar ambientes disponíveis
 
+## Ator: professor
+## Fluxo Principal:
+1. modificar status de algum ambiente
 
-Atores: Alunos, Monitores, professores e usuários
+## Ator: monitor
+## Fluxo Principal:
+1. modificar status de algum ambiente
+
+## Ator: aluno
+## Fluxo Principal:
